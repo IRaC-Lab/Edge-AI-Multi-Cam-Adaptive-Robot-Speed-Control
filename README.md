@@ -1,4 +1,4 @@
-# Edge-AI-Multi-Cam-Adaptive-Robot-Speed-Control
+# Edge AI-Driven Multi-Camera System for Adaptive Robot Speed Control in Safety-Critical Environments
  Simulation Implementation for "Edge AI-Driven Multi-Camera System for Adaptive Robot Speed Control in Safety-Critical Environments"
 
 ## Packages
